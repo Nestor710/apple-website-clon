@@ -1,6 +1,6 @@
 # Project info
 
-This is a clone landing page iPhone 15 using tecnologies like: 
+This is a clone landing page iPhone 15 using tecnologies like:
 
 * React
 * Vite
@@ -9,7 +9,7 @@ This is a clone landing page iPhone 15 using tecnologies like:
 * TailwindCSS
 * React Fiber y React Drei
 
-<image src="public/project.png" alt="Project Image">
+<image src="public/project.png" alt="Project Image" />
 
 # Run Project
 
